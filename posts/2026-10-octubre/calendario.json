@@ -140,11 +140,19 @@
  {
   "fecha": "2026-10-28",
   "tipo": "CAROUSEL",
-  "instagram_media": [],
+  "instagram_media": [
+   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c28_01.mp4",
+   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c28_02.mp4",
+   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c28_03.mp4",
+   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c28_04.mp4",
+   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c28_05.mp4",
+   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c28_06.mp4",
+   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c28_07.mp4"
+  ],
   "facebook_media": "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c28_fb.mp4",
-  "caption": "(Pendiente: necesita las fotos de los 4 aceites.)",
-  "en_espera": true,
-  "motivo_espera": "Faltan las fotos de los aceites"
+  "caption": "🛢️ OFERTAS AL MAYOR: los aceites 4T que más rotan\n\n🔹 Roshfrans Motonic 20W-50: $13,36 c/u\n🔹 Ipone M4 20W50: pregunta el precio por WhatsApp\n🔹 Chronus Eco Cycle 20W-50: $10,01 c/u\n🔹 Benf 20W50: $4,85 c/u\n\nPrecios pagando en divisas (USDT, Zelle o efectivo).\n\n💡 Consejo: ten las 3 gamas en tu tienda (económica, media y premium) para que ningún cliente se vaya sin comprar.\n\n👉 Escribe LISTA al 0424-3243106 y recibe la lista completa al mayor.\n\n✅ Pedido mínimo $99 · Envío GRATIS a toda Venezuela\n\n#motobox #aceitedemoto #ventasalmayor #repuestosdemoto #motosvenezuela",
+  "en_espera": false,
+  "motivo_espera": null
  },
  {
   "fecha": "2026-10-29",
@@ -181,6 +189,6 @@
   "facebook_media": "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/r31.mp4",
   "caption": "🎉 ¡Ya tenemos ganador del sorteo! Felicidades a [@GANADOR], te escribimos por DM para coordinar tu envío.\n\nGracias a todas las tiendas que confiaron en MOTOBOX este octubre 🙌\n\nEn noviembre se viene el COMBO 3: Transmisión y Croche 🔗\n\n📲 Pide la lista: escribe LISTA al 0424-3243106\n\n#motobox #sorteo #repuestosdemoto #motosvenezuela #ventasalmayor",
   "en_espera": true,
-  "motivo_espera": "Falta el usuario del ganador del sorteo"
+  "motivo_espera": "El sorteo aún no se hace: Pedro pasará el usuario del ganador ese mismo día para terminar el video y publicarlo"
  }
 ]
