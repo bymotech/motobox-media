@@ -111,7 +111,7 @@
   "fecha": "2026-10-26",
   "tipo": "CAROUSEL",
   "instagram_media": [
-   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c26_01.mp4",
+   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c26_portada.jpg",
    "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c26_02.mp4",
    "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c26_03.mp4",
    "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c26_04.mp4",
@@ -126,7 +126,7 @@
   "fecha": "2026-10-27",
   "tipo": "CAROUSEL",
   "instagram_media": [
-   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c27_01.mp4",
+   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c27_portada.jpg",
    "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c27_02.mp4",
    "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c27_03.mp4",
    "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c27_04.mp4",
@@ -141,7 +141,7 @@
   "fecha": "2026-10-28",
   "tipo": "CAROUSEL",
   "instagram_media": [
-   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c28_01.mp4",
+   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c28_portada.jpg",
    "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c28_02.mp4",
    "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c28_03.mp4",
    "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c28_04.mp4",
@@ -163,13 +163,14 @@
   "facebook_media": "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/r29.mp4",
   "caption": "¿Tienes tienda de repuestos y se te acaba la mercancía? 🏪\n\nMOTOBOX te surte:\n🔹 Pides por WhatsApp o por el catálogo\n🔹 Pagas en Bs, USDT, Zelle o efectivo\n🔹 Te llega GRATIS a tu tienda\n\n👉 Escribe TIENDA al 0424-3243106\n\n#motobox #tiendademotos #ventasalmayor #repuestosdemoto #motosvenezuela",
   "en_espera": false,
-  "motivo_espera": null
+  "motivo_espera": null,
+  "cover_url": "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/r29_cover.jpg"
  },
  {
   "fecha": "2026-10-30",
   "tipo": "CAROUSEL",
   "instagram_media": [
-   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c30_01.mp4",
+   "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c30_portada.jpg",
    "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c30_02.mp4",
    "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c30_03.mp4",
    "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/c30_04.mp4",
@@ -189,6 +190,7 @@
   "facebook_media": "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/r31.mp4",
   "caption": "🎉 ¡Ya tenemos ganador del sorteo! Felicidades a [@GANADOR], te escribimos por DM para coordinar tu envío.\n\nGracias a todas las tiendas que confiaron en MOTOBOX este octubre 🙌\n\nEn noviembre se viene el COMBO 3: Transmisión y Croche 🔗\n\n📲 Pide la lista: escribe LISTA al 0424-3243106\n\n#motobox #sorteo #repuestosdemoto #motosvenezuela #ventasalmayor",
   "en_espera": true,
-  "motivo_espera": "El sorteo aún no se hace: Pedro pasará el usuario del ganador ese mismo día para terminar el video y publicarlo"
+  "motivo_espera": "El sorteo aún no se hace: Pedro pasará el usuario del ganador ese mismo día para terminar el video y publicarlo",
+  "cover_url": "https://raw.githubusercontent.com/bymotech/motobox-media/main/posts/2026-10-octubre/r31_cover.jpg"
  }
 ]
